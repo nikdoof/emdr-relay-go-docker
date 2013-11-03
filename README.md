@@ -8,6 +8,14 @@ Overview
 
 This grabs the build requirements and uses the example configuration files to start a EMDR Relay instance on port `8050` managed by Supervisor.
 
+Using
+-----
+
+The container image is available on the public Docker index.
+
+* `docker pull nikdoof/emdr-relay-go`
+* `docker run nikdoof/emdr-relay-go`
+
 Build
 -----
 
